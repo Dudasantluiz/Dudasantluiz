@@ -16,7 +16,7 @@
 - Cyberops  - CISCO 
 - CCNA - CISCO
 - Suporte de TI da GOOGLE
-- 
+
 ## 📫 Como me encontrar:
 linkedin.com/in/luiz-carlos-de-santana-filho-b367622a5
 
