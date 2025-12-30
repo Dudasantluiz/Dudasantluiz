@@ -3,8 +3,8 @@
 🛡️  Analista de Cibersegurança | SOC | Python | Pentester web
 
 ## 🚀 Projetos em Destaque
-- https://github.com/Dudasantluiz/redes-corporativa-security.git
-- [Rede Doméstica segura] https://github.com/Dudasantluiz/Rede-domestica-segura.git.
+- [Rede Corporativa Segura] https://github.com/Dudasantluiz/redes-corporativa-security.git
+- [Rede Doméstica Segura] https://github.com/Dudasantluiz/Rede-domestica-segura.git.
 
 ## 🧰 Ferramentas & Tecnologias
 - **Sistemas:** Linux (Kali, Ubuntu), Windows Server, Active directory.
