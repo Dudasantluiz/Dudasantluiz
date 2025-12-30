@@ -4,7 +4,7 @@
 
 ## 🚀 Projetos em Destaque
 - https://github.com/Dudasantluiz/redes-corporativa-security.git
-- [WRITEUPS_CTF](link-para-o-repositorio): Relatórios técnicos de máquinas resolvidas no TryHackMe/HackTheBox.
+- [Rede Doméstica segura] https://github.com/Dudasantluiz/Rede-domestica-segura.git.
 
 ## 🧰 Ferramentas & Tecnologias
 - **Sistemas:** Linux (Kali, Ubuntu), Windows Server, Active directory.
