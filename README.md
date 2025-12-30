@@ -1,12 +1,6 @@
 ## # Olá, eu sou a Luiz! 👋
 
-### 🛡️  Analista de Cibersegurança | SOC | PYTHON | Pentester web
-
-## 🛠️ O Meu Laboratório de Cibersegurança
-Mantenho um ambiente controlado no **VirtualBox** para simulação de ameaças e monitoramento, onde pratico:
-- **Análise de Logs:** Configuração de Sysmon e envio de telemetria para SIEM.
-- **Detecção:** Criação de regras de alerta para ataques de Brute Force e scans de rede.
-- **Pentesting:** Prática de exploração em máquinas vulneráveis (Metasploitable/TryHackMe).
+🛡️  Analista de Cibersegurança | SOC | Python | Pentester web
 
 ## 🚀 Projetos em Destaque
 - [NOME_DO_TEU_LAB](link-para-o-repositorio): Documentação completa da minha infraestrutura no VirtualBox.
