@@ -3,7 +3,7 @@
 🛡️  Analista de Cibersegurança | SOC | Python | Pentester web
 
 ## 🚀 Projetos em Destaque
-- [NOME_DO_TEU_LAB](link-para-o-repositorio): Documentação completa da minha infraestrutura no VirtualBox.
+- https://github.com/Dudasantluiz/redes-corporativa-security.git
 - [WRITEUPS_CTF](link-para-o-repositorio): Relatórios técnicos de máquinas resolvidas no TryHackMe/HackTheBox.
 
 ## 🧰 Ferramentas & Tecnologias
