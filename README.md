@@ -1,4 +1,4 @@
-## # Olá, eu sou a Duda! 👋
+## # Olá, eu sou a Luiz! 👋
 
 ### 🛡️  Analista de Cibersegurança | SOC | PYTHON | Pentester web
 
@@ -24,5 +24,5 @@ Mantenho um ambiente controlado no **VirtualBox** para simulação de ameaças e
 - Suporte de TI da GOOGLE
 - 
 ## 📫 Como me encontrar:
-[![LinkedIn](linkedin.com/in/luiz-carlos-de-santana-filho-b367622a5
+linkedin.com/in/luiz-carlos-de-santana-filho-b367622a5
 
