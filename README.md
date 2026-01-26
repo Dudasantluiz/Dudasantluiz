@@ -4,7 +4,7 @@
 
 ## 🚀 Projetos em Destaque
 - [Rede Corporativa Segura] https://github.com/Dudasantluiz/redes-corporativa-security.git
-- [Rede Doméstica Segura] https://github.com/Dudasantluiz/Rede-domestica-segura.git.
+- [Pfsense-AD-W10] https://github.com/Dudasantluiz/LAB-_Pfsense-AD-w10
 
 ## 🧰 Ferramentas & Tecnologias
 - **Sistemas:** Linux (Kali, Ubuntu), Windows Server, Active directory.
