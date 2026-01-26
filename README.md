@@ -1,6 +1,6 @@
 ## # Olá, eu sou a Luiz! 👋
 
-🛡️  Analista de Cibersegurança | SOC | Python | Pentester web
+🛡️  Suporte de TI | Analista de Cibersegurança | SOC | Python | Pentester web
 
 ## 🚀 Projetos em Destaque
 - [Rede Corporativa Segura] https://github.com/Dudasantluiz/redes-corporativa-security.git
