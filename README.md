@@ -7,7 +7,7 @@
 - [Pfsense-AD-W10] https://github.com/Dudasantluiz/LAB-_Pfsense-AD-w10
 
 ## 🧰 Ferramentas & Tecnologias
-- **Sistemas:** Linux (Kali, Ubuntu), Windows Server, Active directory.
+- **Sistemas:** Linux,Windows Server, Active directory.
 - **Defesa:** Splunk,Wireshark, Sysmon,pfsense,Suricata,Snort,Trend micro.
 - **Ataque:** Nmap, Metasploit, Burp Suite.
 - **Linguagens:** Bash, Power shell, Python (em aprendizagem).
