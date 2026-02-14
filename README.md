@@ -3,7 +3,7 @@
 🛡️  Suporte de TI | Analista de Cibersegurança | SOC | Python | 
 
 ## 🚀 Projetos em Destaque
-- [Rede Corporativa Segura] https://github.com/Dudasantluiz/redes-corporativa-security.git
+- [Wireshark-port scan] https://github.com/Dudasantluiz/Port-scan-Wireshark.git
 - [Pfsense-AD-W10] https://github.com/Dudasantluiz/LAB-_Pfsense-AD-w10
 
 ## 🧰 Ferramentas & Tecnologias
