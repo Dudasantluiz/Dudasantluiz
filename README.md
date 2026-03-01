@@ -10,7 +10,7 @@
 - **Sistemas:** Linux,Windows Server, Active directory.
 - **Defesa:** Splunk,Wireshark, Sysmon,pfsense,Suricata,Snort,Trend micro.
 - **Ataque:** Nmap, Metasploit, Burp Suite.
-- **Linguagens:** Power shell, Python e SQL (em aprendizagem).
+- **Linguagens:** Python e SQL (em aprendizagem).
 
 ## 📈 Evolução e Certificações
 - Cyberops  - CISCO 
