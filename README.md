@@ -9,7 +9,6 @@
 ## 🧰 Ferramentas & Tecnologias
 - **Sistemas:** Linux,Windows Server, Active directory.
 - **Defesa:** Splunk,Wazuh,Wireshark, Sysmon,pfsense,Suricata,Snort.
-- **Ataque:** Nmap, Metasploit, Burp Suite.
 - **Linguagens:** Python e SQL (em aprendizagem).
 
 ## 📈 Evolução e Certificações
