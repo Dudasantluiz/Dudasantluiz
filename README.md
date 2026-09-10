@@ -8,7 +8,7 @@
 
 ## 🧰 Ferramentas & Tecnologias
 - **Sistemas:** Linux,Windows Server, Active directory,zabbix,Mysql.
-- **Defesa:** Splunk,Wazuh,Wireshark, Sysmon,pfsense,Suricata,Snort.
+- **Defesa:** Splunk,Wazuh,Wireshark,pfsense,Suricata,Snort.
 - **Linguagens:** Python e SQL (em aprendizagem).
 
 ## 📈 Evolução e Certificações
