@@ -7,7 +7,7 @@
 - [Pfsense-AD-W10] https://github.com/Dudasantluiz/LAB-_Pfsense-AD-w10
 
 ## 🧰 Ferramentas & Tecnologias
-- **Sistemas:** Linux,Windows Server, Active directory,zabbix,Mysql.
+- **Sistemas:** Linux,Windows Server, Active directory,zabbix.
 - **Defesa:** Splunk,Wazuh,Wireshark,pfsense,Suricata,Snort.
 - **Linguagens:** Python e SQL (em aprendizagem).
 
