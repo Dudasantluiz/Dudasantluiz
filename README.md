@@ -1,6 +1,6 @@
 ## # Olá, eu sou a Luiz! 👋
 
-🛡️  Suporte de TI | Analista de Cibersegurança | SOC | Python | 
+🛡️  Estágiário de redes| Analista de Cibersegurança | SOC | Python | 
 
 ## 🚀 Projetos em Destaque
 - [Wireshark-port scan] https://github.com/Dudasantluiz/Port-scan-Wireshark.git
