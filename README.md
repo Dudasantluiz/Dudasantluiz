@@ -1,6 +1,6 @@
 ## # Olá, eu sou a Luiz! 👋
 
-🛡️  Estágiário de redes| Analista de Cibersegurança | SOC | Python | 
+🛡️  Estágiário de redes | Analista de Cibersegurança | SOC | Python | 
 
 ## 🚀 Projetos em Destaque
 - [LAB-Wazuh-W10] https://github.com/Dudasantluiz/LAB-WAZUH-W10-Sysmon-Kali
