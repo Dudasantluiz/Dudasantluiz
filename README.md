@@ -17,5 +17,6 @@
 - CCNA - CISCO
 - Suporte de TI da GOOGLE
 - Analista SOC Letsdefend
+- NSE 1, 2, 3 Fortinet
 
 
