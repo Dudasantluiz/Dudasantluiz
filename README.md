@@ -9,7 +9,7 @@
 ## 🧰 Ferramentas & Tecnologias
 - **Sistemas:** Linux,Windows Server, Active directory,zabbix.
 - **Defesa:** Splunk,Wazuh,Wireshark,pfsense,Suricata.
-- **Linguagens:** Python e SQL (em aprendizagem).
+- **Linguagens:** Python e SQL.
 
 ## 📈 Evolução e Certificações
 - Cyberops  - CISCO 
