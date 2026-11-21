@@ -5,7 +5,7 @@
 ## 🚀 Projetos em Destaque
 - [LAB-Wazuh-W10] https://github.com/Dudasantluiz/LAB-WAZUH-W10-Sysmon-Kali
 - [Wireshark-port scan] https://github.com/Dudasantluiz/Port-scan-Wireshark.git
-- [Pfsense-DMZ-Suricata](https://github.com/Dudasantluiz/-Arquitetura-de-Rede-Segmentada-DMZ-com-pfSense-e-Suricata-IDS-IPS)
+- [Pfsense-DMZ-Suricata] https://github.com/Dudasantluiz/-Arquitetura-de-Rede-Segmentada-DMZ-com-pfSense-e-Suricata-IDS-IPS)
 ## 🧰 Ferramentas & Tecnologias
 - **Sistemas:** Linux,Windows Server, Active directory,zabbix.
 - **Defesa:** Splunk,Wazuh,Wireshark,pfsense,Suricata.
